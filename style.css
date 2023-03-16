@@ -1,11 +1,17 @@
 body{
-    background-color: white;
-    color:  #45322E;
-    font-family: "Gabriola", serif;
+  background-color: white;
+  color:  #45322E;
+  font-family: "Gabriola", serif;
+  text-align: center;
 }
 h1{
-    font-size: 50px; 
+  font-size: 50px; 
 }
 p{
-    font-size: 30px;
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: #45322E;
 }
